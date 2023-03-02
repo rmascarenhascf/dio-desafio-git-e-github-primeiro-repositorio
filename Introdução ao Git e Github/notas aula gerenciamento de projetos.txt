@@ -1,0 +1,202 @@
+Trabalhando em Equipes Ágeis 
+
+Manifesto ágil: Documento com valores do manifesto de agilidade
+ 	1 - Indivíduos e interações mais que processos e ferramentas: valorização maior das pessoas e suas interações do que as ferramentas em si.
+	2 - Software em funcionamento mais que documentação abrangente: entrega do produto é muito mais importante do que relatórios ou papéis sobre o produto
+	3 - Responder as mudanças mais que seguir um plano: se adaptar e se verificar o caminho certo
+	4 - Colaboração com o cliente mais que negociação de contratos: o cliente tem o papel fundamental para criação do produto
+
+
+os 12 princípios do manifesto:
+	1 - maior prioridade é satisfazer o cliente através da entrega contínua e adiantada com valor agregado
+	2 - Aceitar mudanças de requisitos mesmo que no fim do desenvolvimento, ADEUAMENTO DE MUDANÇAS
+	6 - Método de transmitir informações para a equipe, conversa face a face
+	10 - Simplicidade: focar no essencial, diminuir disperdicios de tempo
+	12 - Reflexão da equipe se tornar mais refinada e ajusatar seu comportamento de acordo
+
+
+
+Características de um time ágil:
+ 	- Alinhado com cliente e stakeholders (partes externas)
+	- Time organizado e responsável
+	- Multidisciplinar: cada um tem seu conhecimento ou tecnologia para se complementar e experiência
+	- Entrega de valor continuamente
+	- Está sempre aprendendo
+	- Melhoria contínua
+	- possui metas e métricas claras
+	- Unido
+
+
+Importância da agilidade no mundo da tecnologia:
+
+	- Inovação: abordagem incremental, melhorada com ciclos de apredizagem
+	- Entregas Rápidas e eficientes Velocidade x Agilidade
+	- Eficiência
+
+	V:Volátil
+	U:Incerto
+	C:Complexo
+	A:Ambíguo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aula 02 - Gerenciamento de projetos
+
+
+- Processo: é esforço recorrente e contínuo, repetitivo, replicavel 
+
+- Projeto: esforço temporário, tem início e fim bem definitivo
+
+
+
+
+
+Gerenciamento de projeto ágil x tradicional
+
+Modelo tradidcional (waterfall) - abordagem com etapas bem definidas com escopo de passo a passo, uma etapa após a outra até o fim com o objetivo. mais detalhado
+
+Modelo Ágil (com Scrum) - Ciclos, desenvolvimento iterativo e incremental. a cada entrega tem um feedback tanto da equipe como do cliente.
+
+
+Não existe modelo melhor de gerenciamento, sempre depende do projeto.
+
+
+O que é GESTÃO ÁGIL?
+
+	-Uma forma de gestão que seja FLEXIVEL que se adapte as mudanças, colaborativa que gere transaparências, voltada ao aprendizado e que tenha uma entrega contínua de valor.
+
+
+
+
+
+
+METODOLOGIAS ÁGEIS
+	
+	- SCRUM: Framework leve
+ 
+		Empirismo: tomando decisões com base no que é observado e aprendido. 
+		
+		Lean Thinking: Linha de pensamento. mindset. Redução de desperdícios
+
+		PILARES DO SCRUM:
+			- Transparência
+			- Inspeção: arte de aplicr visão crítica, detectar variações ou problemas potencialmente indesejáveis, olhando o progresso do time, feedback de clientes e inspeção e aprovação das entregas
+'			- Adaptação: a partir da inspeção e transparência, adaptam o processo para fazer melhoriasno trabalho e evitando futuros problemas
+		
+		O FRAMEWORK:
+			- Propositalmente incompleto
+			- É a estrutura do que tem que ser feito e o porquê, 
+			- A metodologia é na hora de "como fazer" é a receita, o modo de preparo, ele não faz por você para que todas as partes se complementem
+
+
+
+		
+
+	- Extreme Programming (XP): Método ágil para desenvolvimento de software, focado, FAZENDO CICLOS DE ENTREGAS RÁPIDOS, CONTÍNUOS E INCREMENTAIS PLANEJA > FAZ > CHECA > MELHORA. O CICLO
+
+			- interação próxima com cliente
+			- testagem constante
+			- ciclos de desenvolvimentos curtos
+
+
+
+	- Kanban: Método para definir, gerenciar e melhorar serviços
+
+			- Muito utilizado
+			- Desenvolvido pela TOYOTA
+			- Para evitar a falta ou excesso de estoque desenvolveu o método
+			- Promover o controle de estoque
+			- Utilizado em marketing, prestação de serviços e desenvolvimento de software incorporado em equipes
+-			- Visibilização em quadro os status de uma atividade
+
+
+
+
+	- OKR: OBJETIVOS E RESULTADOS CHAVES: método ágil simplificar a forma de encarar objetivos estratégicos usado na google desde 1999
+		
+		- Objetivos: Descrições qualitativas para apontar a direção que a empresa deverá seguir
+
+				- Claro: fácil de entender
+				- Inspirador: bater a meta de conquista
+				- Desafiador: 
+				- Alinhado com a missão do negócio
+			
+				exemplos:
+				- Criar uma experência inesquecível para o cliente em todos os pontos de contato
+				- Crescer em vendar na região sul do país, dominando a região
+				- Tornar-se referência nacional e autoridade absoluta na área de Educação em Tecnologia
+
+		- Key Results (Resultados chaves): São as metas que determina o comprimento daquele objetivo. Servirão de referência para indicar o PROGRESSO em direção ao objetivo principal
+
+
+				- Baseadas em indicadores-chave desempenho
+				- Quantitativas
+				- SMART: Específicas, Mensuráveis, Atingíveis, Relevantes e Temporais
+
+
+
+		EXEMPLO EM PRÁTICA:
+			-OBJETIVO: Criar uma experência inesquecível para o cliente em todos os pontos de contato
+
+				- KR1: Integrar a base de dados dos 5 canais de atendimento
+				- KR2: Contratar mais 15 atendentes e 1 gestor de comunidade
+				- KR3: ALCANÇAR NPS de 80%  (índice de satisfação)
+
+
+		BENEFÍCIOS DO OKR:
+				- Agilidade: usando princípios dos métodos ágeeis com ciclos rápidos e adaptações das empresas nas mudanças
+				- Cooperação: caráter inspiracional
+				- Transparência: objetivo que todos terão acesso
+				- Monitoramento contínuo: Segurança
+
+
+
+
+
+		- DICAS FINAIS:
+				- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
