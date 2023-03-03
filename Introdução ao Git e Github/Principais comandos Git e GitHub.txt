@@ -1,0 +1,14 @@
+Git e GitGub
+
+-Ciclo de vida dos arquivos dentro do GIT
+	-Git init: cira pasta .git e inicializa o conceito de repositório dentro do diretório
+	-Git add: manda o arquivo pra staged
+	-Git commit: retorna staged pra Unmodified para começar o ciclo novamente, move os arquivos que tava na área de staged e os coloca em unmodified
+	-O repositório local só vai estar com arquivos Commitados
+	-Git status: informações de arquivos se estão commitados ou unmodified, ou staged
+
+Resolvendo conflitos no Git e Github
+
+	- git push, joga o código de dentro da máquina pro repositório online (atualizar)
+	- git pull, pega o código do repositório online e joga no repositório local pra atualizar e deixar na mesma versão
+	
