@@ -1,0 +1,31 @@
+Aula Visão Geral  de JAVA e plataformas:
+
+1. História java:
+	- Orientada a objetos (importantíssimo paradigma para foco)
+	- Lançada em 1995
+
+2. Características:
+	- Linguagem interpretada
+	- Plataforma JAVA tem a linguagem JAVA convencional mas não é a única
+	- Vantagem de não estar presa a um único sistema operacional ou hardware, podendo ser utilizada em máquinas virtuais
+	- Java SE: Base da plataforma que trás classes mais comuns entre as plataformas
+	- Java EE: Edição que cuida do desenvolvimento WEB
+	- Java ME: Edição de cuida do desenvolvimento Mobile e dispostivos embarcados (controle remoto, calculadora etc)
+
+3. Fases de execução JAVA: 
+	- Escrita do código-fonte
+	- JDK compila para gerar o arquivo bytecode (.class)
+	- a execução se define em a JVM lê  arquivo compilado e as bibliotecas padrões do Java que estão no JRE
+
+		- JDK (JAVA DEVELOPMENT KIT): kit de desenvolvimento para compilar código-fonte
+		- JVM (JAVA VIRTUAL MACHINE): Executa o Bytecode (.class)
+		- JRE (JAVA RUNTIME ENVIRONMENT): Ambiente de execução que fornece as bibliotecas para o JDK compilar o código e o JVM executá-lo
+
+4. Versões JAVA:
+	- OpenJDK: Open Source com General Public License (GNU) > OpenJDK LTS, suas versões são lançadas a cada quatro anos
+	- JDK Oracle: Requer licença comercial sob contrato
+
+5. IDE:
+	- Ambiente de desenvolvimento integrado de combinação de ferramentas e um única interface
+	- Eclipse e IntelliJ
+	- 
