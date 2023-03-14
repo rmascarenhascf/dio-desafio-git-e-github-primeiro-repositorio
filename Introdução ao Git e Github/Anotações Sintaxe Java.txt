@@ -1,0 +1,54 @@
+Anotações Sintaxe Java Básico
+
+CLASSES:
+	- Anatomia da classe
+	- Uma classe bem estruturada não quer guerra com ninguém
+	- Quanto melhor a estruturação da classe, melhor para o entendimento do algorítimo
+	- Caracterização das nomeclatura
+	- TODA classe tem que estar dentro da pasta SRC 
+	- TODO arquivo .java deve começar com letra MAÍUSCULA, se for palavra coposta, a segunda palavra deve também ser maísucula
+		Ex: MinhaClasse.java, CalculadoraCientífica.java
+	- Toda Classe deverá ter o mesmo nome do Arquivo
+
+VARIÁVEIS:
+	
+	- Toda variável deve ser escrita com letra maíuscula, a segunda palavra em diante deverá iniciar com letra maiúscula. O  nome dessa prática se chama camelCase
+		Ex: anoFabricacao
+	- Variáveis com letras maísuculas nunca poderão sofrer alterações.
+	- Para declarar uma variável não podemos utilizar caracteres, números e símbolos.
+	- Boa prática é começar uma variável com letra minúscula
+	- Não podem conter espaços
+	- Únicos símbolos permitidos são: _ e $
+	- não pode utilizar palavras que fazem parte da própria linguagem
+
+	- Declarar uma variável: Tipo NomeBemDefinido = seu valor;
+	 	Ex: int anoFabricacao = 2018;
+
+MÉTODOS:
+	- TipoRetorno NomeObjetivoNoInfinitivo Parâmetro(s):
+		Ex: int somar( int numeroUm, int numero2)
+		Ex: String formatarCep(long cep)
+	- Todo método tem seus retornos
+	- Com parâmetros ou não
+
+	
+IDENTAÇÃO:
+	- é a digitação em forma de Escopo, de forma de hierárquica, para facilitação da visualização do código
+
+ORGANIZANDO ARQUIVOS:
+	- Surgindo novos arquivos (código fonte) faz-se necessária a organização deles em pacotes (Packages).
+	
+JAVA BEANS: 
+	- sugestões em convenções de como organizar a escrita de variáveis, métodos, pacotes etc...
+
+
+
+TIPOS E VARIÁVEIS:
+	-Tipos Primitivos:
+		-Int, Byte, Short, Long, Float, Double, Boolean e Char
+	- AS CONSTANTES É PRA ESTAREM SEMPRE EM CAIXA ALTA para que a variável nunca mude, uso do "final" antes do nome da variável
+
+	
+
+
+	 
