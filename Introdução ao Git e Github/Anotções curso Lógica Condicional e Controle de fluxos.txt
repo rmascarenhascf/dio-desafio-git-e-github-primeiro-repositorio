@@ -1,0 +1,43 @@
+Anotações Lógica Condicional e controle de fluxos em JAVA:
+
+Lógica condicional:
+
+	-Similaridades(==), diferentes(!=)
+		
+	-Tamanho: maior(>), maior igual(>=), menor(<) e menor igual(<=).
+	
+	-Lógicos:
+		- Conjução (&&)> e, o resultado será true apenas se os dois valores forem iguais
+		- Disjunção (||) ou, o resultado será true apenas se algum dosvalores confirmar uma condição
+		- Disjunção Exclusiva (^)> xor, resultado será true quando os valores forem opostos
+		- Negação (!) > torna o valor de variáveis ao contrário
+
+
+Controle de fluxos:
+
+	- Tipos:
+		- Decisão: if, else, if-else-if, switch e operador ternário
+
+			> Estrutura que avalia condição boleana ou variável para direcionar o fluxo de execução do código
+
+		- Repetição: for, while, do while
+
+		- Interrupção: break, continue e return
+
+
+OBS: evitar ao máximo operadores ternários.
+
+Boas práticas:
+	- Switch é para valores exatos e if para expressões booleanas
+	- Evitar usar o default do switch para "cases genéricos"
+	- Evitar o efeito "flecha" dos if's
+	- Evitar muitos if's aninhados
+	
+
+Blocos:
+	Tipos:
+		- Locais: dentro de métodos
+		- Estáticos: dentro de classes
+		- Instância: dentro de classes
+ 
+	
