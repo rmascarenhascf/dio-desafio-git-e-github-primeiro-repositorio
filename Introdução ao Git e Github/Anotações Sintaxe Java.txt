@@ -25,7 +25,7 @@ VARIÁVEIS:
 	 	Ex: int anoFabricacao = 2018;
 
 MÉTODOS:
-	- TipoRetorno NomeObjetivoNoInfinitivo Parâmetro(s):
+	- TipoRetorno nomeObjetivoNoInfinitivo Parâmetro(s):
 		Ex: int somar( int numeroUm, int numero2)
 		Ex: String formatarCep(long cep)
 	- Todo método tem seus retornos
@@ -48,7 +48,31 @@ TIPOS E VARIÁVEIS:
 		-Int, Byte, Short, Long, Float, Double, Boolean e Char
 	- AS CONSTANTES É PRA ESTAREM SEMPRE EM CAIXA ALTA para que a variável nunca mude, uso do "final" antes do nome da variável
 
-	
+OPERADORES:
+	- Atribuição (=): definir o valor inicial de uma variável ou alterar o valor de alguma.
+	- Cada tipo de dado tem forma de declaração de um valor a uma variável
+		Ex: áspas para Strings > nome = "Rômulo";
+	- Soma (+)
+	- Subtração (-)
+	- Multiplicação (*)
+	- Divisão (/)
+	- modulo (%) > para saber se a divisão terá restos
+	- double 
+	- Incremento (++) > mesma coisa de dizer a variavel e somar mais 1
+	- Decrementar (--) > mesma coisa de dizer a variavel e diminuir 1
+	- Inversão de variável (!)
+	- Ternária (?:) > funciona como controle de fluxo em condições (?"verdadeiro" : "falso")
+	- Valor de uma variável IGUAL  outra (==)
+	- Valor de uma variável é DIFERENTE da outra (!=)
+	- (&&) > verificação de concatanação dando ideia de "e"
+	- (||) > verificação de "ou"
 
+MÉTODOS:
+	- Devem ser nomeado como verbo
+	- Seguir Padrão camelCase
+	- Métodos são definidos dentro das classes
+	- 
+PALAVRAS RESERVADAS:
+	- Possui 52 palavras reservadas todas escritas em letras minúsculas
 
 	 
